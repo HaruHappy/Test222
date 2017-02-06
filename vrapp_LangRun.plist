@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://125.71.232.126:8082/FileManager/files/version/VrMobile.ipa</string>
+					<string>http://125.71.232.126:8082/FileManager/files/version/LangRun/VrMobile.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://125.71.232.126:8082/FileManager/files/version/icon.png</string>
+					<string>http://125.71.232.126:8082/FileManager/files/version/LangRun/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://125.71.232.126:8082/FileManager/files/version/Icon_60.png</string>
+					<string>http://125.71.232.126:8082/FileManager/files/version/LangRun/Icon_60.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
